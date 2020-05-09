@@ -1,0 +1,28 @@
+{
+  "name": "yelp-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "qawolf": "qawolf create yelp.com yelp",
+    "start": "ts-node-script yelp-scraper.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-static": "^4.2.1",
+    "jest": "^26.0.1",
+    "playwright": "^1.0.1",
+    "playwright-video": "^1.0.0",
+    "qawolf": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.5",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.5",
+    "ts-jest": "^25.5.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  }
+}
