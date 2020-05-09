@@ -19,5 +19,5 @@ npm start
 Run [QA Wolf](https://www.qawolf.com/) REPL (test files generated under `.qawolf`)
 
 ```shell script
-https://www.qawolf.com/
+npm run qawolf
 ```
