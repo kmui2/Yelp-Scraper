@@ -1,5 +1,13 @@
 # Yelp Scalper using Playwright
 
+## Installation
+
+- NodeJS https://nodejs.org/en/
+
+```shell script
+npm install
+```
+
 ## Usage
 
 Run `yelp-scraper.ts`:
