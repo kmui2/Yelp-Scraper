@@ -1,4 +1,4 @@
-# Yelp Scalper using Playwright
+# Yelp Scraper using Playwright
 
 ## Installation
 
